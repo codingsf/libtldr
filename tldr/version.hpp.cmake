@@ -1,0 +1,8 @@
+#ifndef TLDR_VERSION_HPP_
+#define TLDR_VERSION_HPP_
+
+#define TLDR_VERSION_MAJOR @libtldr_VERSION_MAJOR@
+#define TLDR_VERSION_MINOR @libtldr_VERSION_MINOR@
+#define TLDR_VERSION_PATCH @libtldr_VERSION_PATCH@
+
+#endif

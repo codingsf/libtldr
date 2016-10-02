@@ -1,0 +1,5 @@
+#cmakedefine TLDR_HAS_ELF32_SUPPORT
+#cmakedefine TLDR_HAS_ELF64_SUPPORT
+
+#cmakedefine TLDR_HAS_PE32_SUPPORT
+#cmakedefine TLDR_HAS_PE64_SUPPORT
